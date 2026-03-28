@@ -76,7 +76,7 @@ const Signin = () => {
             shadow-[0_0_20px_rgba(0,255,200,0.5)] 
             hover:bg-emerald-300 active:scale-95 transition"
           >
-            <span className="relative z-10">Login</span>
+            <span className="relative z-10 cursor-pointer">Login</span>
 
             <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent translate-x-[-100%] hover:translate-x-[100%] transition-all duration-700"></div>
           </button>
